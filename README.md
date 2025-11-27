@@ -1,5 +1,8 @@
+# Worksheet 0
 
-# README.md — Worksheet 0 (Operating Systems)
+**Student:** Khaled Alotebi  
+**Email:** khaled2.alotebi@live.uwe.ac.uk  
+**Module:** UFCFWK-15-2 Operating Systems
 
 ## Overview
 
@@ -85,7 +88,7 @@ Example:
 
 ---
 
-## File List
+## File List _ screenshots
 
 * `task1_pointers.c` — pointer operations
 <img width="973" height="130" alt="Screenshot 2025-11-27 094031" src="https://github.com/user-attachments/assets/0b1284ea-e887-407f-8acb-f6d404f485fa" />
@@ -117,9 +120,10 @@ Invalid Case
 
 ---
 
-## GitHub Submission
+## GitHub Repository
 
-All files and screenshots were committed and pushed to the GitHub repository as required.
+[https://github.com/k2-alotebi/ufcfwk15-worksheet2-part1](https://github.com/k2-alotebi/ufcfwk15-worksheet2-part1)
 
 ```
+
 
